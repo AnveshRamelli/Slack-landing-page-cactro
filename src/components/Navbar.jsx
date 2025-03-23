@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <div className="flex items-center justify-between p-4 font-semibold max-w-[1200px] mx-auto w-full">
       <div className="flex items-center gap-4">
-        <img src="../src/assets/logo.png" className="w-24 h-12" alt="Logo" />
+        <img src="./assets/logo.png" className="w-24 h-12" alt="Logo" />
       </div>
 
       <div className="md:hidden">
